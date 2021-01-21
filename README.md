@@ -10,6 +10,7 @@
 * **Despesas Hospitalares:**  http://bit.ly/despesas_hospitalares
 * **Histórico de voos registrados pela ANAC:**  http://bit.ly/voos_anac
 * **Dados sobre suicídios:**  http://bit.ly/dados_suicidios
+* **Projetos de Power BI:**
 
 
 ## Sobre mim
